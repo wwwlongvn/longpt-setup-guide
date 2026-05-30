@@ -3,14 +3,27 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Obsidian](https://img.shields.io/badge/Obsidian-Vault-purple)](https://obsidian.md)
 [![Claude](https://img.shields.io/badge/Claude-Code-orange)](https://claude.com/claude-code)
+[![Deploy MkDocs to GitHub Pages](https://github.com/wwwlongvn/longpt-setup-guide/actions/workflows/deploy.yml/badge.svg)](https://github.com/wwwlongvn/longpt-setup-guide/actions/workflows/deploy.yml)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://wwwlongvn.github.io/longpt-setup-guide/)
+[![Discussions](https://img.shields.io/badge/Discussions-Join-blue)](https://github.com/wwwlongvn/longpt-setup-guide/discussions)
 
 Chào mừng bạn đến với giáo trình dạy bạn xây hệ thống wiki cá nhân giống anh Phạm Thành Long — **AI-first**, **concept-first**, **multi-vault**.
 
-> Repo này chính là 1 vault Obsidian. Clone về → mở bằng Obsidian → đọc giáo trình ngay.
+> Repo này chính là 1 vault Obsidian. Có 3 cách đọc:
+>
+> 1. 🌐 **[Đọc online](https://wwwlongvn.github.io/longpt-setup-guide/)** — không cần cài gì
+> 2. 📦 **Clone về** mở bằng Obsidian (có graph view + wikilink interactive)
+> 3. 💬 **[Vào Discussions](https://github.com/wwwlongvn/longpt-setup-guide/discussions)** hỏi đáp với cộng đồng
 
 ## ⚡ Cài đặt nhanh
 
-### Cách 1 — Clone về iCloud Drive (Mac, khuyên)
+### Cách 0 — Đọc website (nhanh nhất, không cần cài gì)
+
+→ **[https://wwwlongvn.github.io/longpt-setup-guide/](https://wwwlongvn.github.io/longpt-setup-guide/)**
+
+Có search tiếng Việt, dark mode, responsive mobile. Đọc giáo trình online ngay không cần download.
+
+### Cách 1 — Clone về iCloud Drive (Mac, khuyên cho người làm theo)
 
 ```bash
 cd "$HOME/Library/Mobile Documents/iCloud~md~obsidian/Documents"
@@ -28,11 +41,11 @@ git clone https://github.com/wwwlongvn/longpt-setup-guide.git
 
 Mở Obsidian → **Open folder as vault** → chọn folder `longpt-setup-guide`.
 
-### Cách 3 — Tải ZIP (không cần Git)
+### Cách 3 — Tải ZIP (không cần Git, không cần Obsidian)
 
 1. Click **Code** → **Download ZIP** ở GitHub
 2. Giải nén → đặt vào folder bạn muốn
-3. Obsidian → **Open folder as vault**
+3. Mở folder bằng Obsidian, hoặc đọc trực tiếp file `.md` bằng text editor
 
 ---
 
@@ -121,9 +134,13 @@ Vào file đầu tiên: [00-triet-ly/01-tai-sao-ai-first-wiki.md](00-triet-ly/01
 
 ## Đóng góp
 
-Phát hiện lỗi / typo / unclear step? Mở **Issue** hoặc **Pull Request** trên GitHub.
+Phát hiện lỗi / typo / unclear step? Mở [Issue](https://github.com/wwwlongvn/longpt-setup-guide/issues) hoặc [Pull Request](https://github.com/wwwlongvn/longpt-setup-guide/pulls).
 
-Đề xuất phần mới / template mới? Discuss trong **Discussions** trước khi PR.
+Đề xuất phần mới / template mới? Discuss trong [Discussions](https://github.com/wwwlongvn/longpt-setup-guide/discussions/categories/ideas) trước khi PR.
+
+Stuck step nào? Hỏi trong [Discussions Q&A](https://github.com/wwwlongvn/longpt-setup-guide/discussions/categories/q-a).
+
+Build xong vault rồi? Khoe trong [Show and tell](https://github.com/wwwlongvn/longpt-setup-guide/discussions/categories/show-and-tell)!
 
 ## Tác giả
 
