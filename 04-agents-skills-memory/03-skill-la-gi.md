@@ -58,7 +58,6 @@ Khi bạn type `/skill-name` (hoặc keyword khớp), Claude:
 | `giao-an-module` | Viết module giáo án PTL |
 | `ltvm-storytelling` | Viết FB long-form LTVM case |
 | `30-tuyet-chieu-gia-tang-doanh-so` | Tư vấn 30 tuyệt chiêu |
-| `7-buoc-dan-dat-nac` | Coaching NAC 7 bước Tony Robbins |
 | `gå-an-may-giau-co` | Viết truyện Gã ăn mày giàu có |
 | `tho-ho-xuan-huong` | Viết thơ Hồ Xuân Hương |
 | `lap-trinh-van-menh` | Coaching lập trình vận mệnh |
