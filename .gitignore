@@ -23,7 +23,13 @@
 __pycache__/
 *.pyc
 .venv/
+.venv-mkdocs/
 *.egg-info/
+
+# MkDocs build output (generated)
+docs/
+_site/
+.cache/
 
 # OS temp
 Thumbs.db
