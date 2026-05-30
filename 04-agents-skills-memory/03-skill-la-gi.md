@@ -352,38 +352,37 @@ bash .claude/skills/heic-to-jpg/scripts/convert.sh "<folder>"
 
 ## Bước 4 — Skill đặc thù domain
 
-Skill `cai-dat-tu-duy` (anh Long) dạy AI dẫn dắt cài đặt tư duy theo phương pháp PTL 5 bước:
+Skill cũng có thể đóng gói **phương pháp coaching / tư vấn signature** của bạn — biến quy trình 5-7 bước thường dùng thành 1 slash command.
+
+Pattern chung:
 
 ```markdown
 ---
-name: cai-dat-tu-duy
-description: "Dẫn dắt cài đặt tư duy chuyển từ tư duy cản trở sang tư duy hỗ trợ qua 5 bước PTL. Use khi user nói 'cài đặt tư duy', 'phá niềm tin giới hạn'..."
+name: <ten-phuong-phap>
+description: "Dẫn dắt user qua quy trình <X> N bước. Use khi user nói '<trigger 1>', '<trigger 2>'..."
 ---
 
-# Cài đặt tư duy 5 bước
+# <Tên phương pháp>
 
-## Bước 1 — Identify tư duy cản trở
+## Bước 1 — <Mục đích bước 1>
 
-Hỏi user: "Bạn đang có tư duy nào cản trở mình?"
+[Hỏi gì / làm gì]
 
-## Bước 2 — Phân tích hậu quả
+## Bước 2 — <Mục đích bước 2>
 
-Pivot: tư duy đó dẫn tới hệ luỵ gì? Vẽ chain.
+[Hỏi gì / làm gì]
 
-## Bước 3 — Reframe sang tư duy hỗ trợ
-
-Đưa câu khẳng định mới.
-
-## Bước 4 — Anchor
-
-Tạo trigger physical/emotional nhớ tư duy mới.
-
-## Bước 5 — Practice DMO
-
-Đặt accountability partner + DMO daily.
+## Bước 3-N — ...
 ```
 
-User chỉ cần `/cai-dat-tu-duy` → AI dẫn dắt 5 bước tự động.
+User chỉ cần `/<ten-phuong-phap>` → AI dẫn dắt N bước tự động theo đúng pipeline bạn đã chuẩn hoá.
+
+**Khi nào skill domain hữu ích**:
+- Bạn là coach / trainer / tư vấn viên có phương pháp riêng
+- Quy trình tư vấn lặp đi lặp lại với mỗi khách
+- Muốn AI dùng được đúng phương pháp của bạn, không generic
+
+**Lưu ý privacy**: nếu skill chứa **IP/signature method** của bạn → để ở `.claude/skills/` local hoặc agent-memory private, KHÔNG commit vào repo public.
 
 ---
 
