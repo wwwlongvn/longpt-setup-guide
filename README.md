@@ -43,9 +43,26 @@ Mở Obsidian → **Open folder as vault** → chọn folder `longpt-setup-guide
 
 ### Cách 3 — Tải ZIP (không cần Git, không cần Obsidian)
 
-1. Click **Code** → **Download ZIP** ở GitHub
-2. Giải nén → đặt vào folder bạn muốn
-3. Mở folder bằng Obsidian, hoặc đọc trực tiếp file `.md` bằng text editor
+**Cách nhanh nhất — click link tải luôn**:
+
+→ [📦 Download ZIP (~150KB)](https://github.com/wwwlongvn/longpt-setup-guide/archive/refs/heads/main.zip)
+
+**Hoặc qua GitHub UI**:
+
+1. Vào https://github.com/wwwlongvn/longpt-setup-guide
+2. Tìm nút **xanh `<> Code`** ở góc phải trên list file (KHÔNG phải trên topbar đen)
+3. Click → dropdown mở → tab **Local** → cuối dropdown có nút **"Download ZIP"**
+4. Click → ZIP tải về (~150KB)
+
+**Sau khi có ZIP**:
+
+1. Giải nén → folder `longpt-setup-guide-main/` (hoặc rename `Longpt's Setup-Guide` cho đẹp)
+2. Đặt vào folder bạn muốn (vd iCloud Drive Documents/)
+3. Mở folder bằng Obsidian (Open folder as vault), hoặc đọc trực tiếp file `.md` bằng text editor bất kỳ
+
+**Phiên bản có tag** (nếu cần version stable, không thay đổi):
+
+→ [Releases](https://github.com/wwwlongvn/longpt-setup-guide/releases) — chọn version + download ZIP attachment
 
 ---
 
