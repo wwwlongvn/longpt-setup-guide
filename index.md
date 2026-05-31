@@ -5,6 +5,7 @@ Mục lục đầy đủ 37 file giáo trình (+4 file root). Click vào để m
 ## Root
 
 - [[README]] — Cửa vào, đọc đầu tiên
+- [[QUICK-START]] — Người vừa tải ZIP đọc đây: 3 lộ trình + checklist 30 phút đầu
 - [[CLAUDE]] — Luật chơi vault (cho AI)
 - [[index]] — File này
 - [[log]] — Nhật ký edit

@@ -54,11 +54,13 @@ Mở Obsidian → **Open folder as vault** → chọn folder `longpt-setup-guide
 3. Click → dropdown mở → tab **Local** → cuối dropdown có nút **"Download ZIP"**
 4. Click → ZIP tải về (~150KB)
 
-**Sau khi có ZIP**:
+**Sau khi có ZIP — đọc ngay file [QUICK-START.md](QUICK-START.md)** trong folder vừa giải nén. File đó hướng dẫn 3 lộ trình tuỳ mục đích:
 
-1. Giải nén → folder `longpt-setup-guide-main/` (hoặc rename `Longpt's Setup-Guide` cho đẹp)
-2. Đặt vào folder bạn muốn (vd iCloud Drive Documents/)
-3. Mở folder bằng Obsidian (Open folder as vault), hoặc đọc trực tiếp file `.md` bằng text editor bất kỳ
+- 🅰️ Chỉ đọc giáo trình (không cài gì)
+- 🅱️ Đọc với Obsidian (15 phút cài)
+- 🅲️ Build vault Brain của bạn từ zero (2-3 tuần)
+
+→ Click `QUICK-START.md` sau khi giải nén — checklist 30 phút đầu giúp bạn không stuck.
 
 **Phiên bản có tag** (nếu cần version stable, không thay đổi):
 
@@ -141,7 +143,9 @@ Sau khi xong 02 → đã chạy được vault Brain cơ bản. 03-05 là mở r
 
 ## Bắt đầu
 
-Vào file đầu tiên: [00-triet-ly/01-tai-sao-ai-first-wiki.md](00-triet-ly/01-tai-sao-ai-first-wiki.md)
+**Người mới hoàn toàn**: đọc [QUICK-START.md](QUICK-START.md) trước — checklist 30 phút đầu + 3 lộ trình.
+
+**Sẵn sàng đi luôn**: vào file đầu tiên [00-triet-ly/01-tai-sao-ai-first-wiki.md](00-triet-ly/01-tai-sao-ai-first-wiki.md).
 
 ---
 
