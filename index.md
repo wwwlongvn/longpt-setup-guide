@@ -71,6 +71,16 @@ Giữ vault sống dài hạn. 1-2 giờ.
 - [[05-bao-tri-lint/03-migrate-rename-vault]] — Migrate khi cần rename
 - [[05-bao-tri-lint/04-khi-nao-pivot-architecture]] — Khi nào đập đi xây lại
 
+## 🛠️ Skills bundled (7 skill)
+
+Skill thật của Phạm Thành Long, copy về dùng được ngay với Claude Code:
+
+- [[.claude/skills/README|Tổng quan + cách dùng]]
+- **Signature**: ips-cmo, ho-so-khach-hang-vpc, cai-dat-tu-duy, tho-ho-xuan-huong
+- **Technical**: text-cat-chunk, srt-cat-chunk, blog-nau-an
+
+Folder: `.claude/skills/` — sau khi clone repo, skills auto active trong Claude Code.
+
 ## Phần 99 — Templates copy-paste (6 file)
 
 Đến đây để lấy template nhanh.

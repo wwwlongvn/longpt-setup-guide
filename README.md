@@ -70,7 +70,7 @@ Mở Obsidian → **Open folder as vault** → chọn folder `longpt-setup-guide
 
 ## Bạn sẽ học được gì
 
-Giáo trình gồm **37 file nội dung** + 4 file root, chia 7 phần.
+Giáo trình gồm **37 file nội dung** + 4 file root + **7 skills bundled** (sẵn sàng dùng), chia 7 phần.
 
 Sau khi hoàn thành giáo trình này, bạn sẽ có:
 
@@ -79,6 +79,7 @@ Sau khi hoàn thành giáo trình này, bạn sẽ có:
 - **3 vault sibling** (Life lifestyle / 4DX execution / Marketing production) tách bạch rõ ràng
 - **Agents + skills + memory** Claude tự xử lý workflow lặp đi lặp lại
 - **Quy trình lint + backup + migration** để vault sống dài hạn không bị mục
+- **7 skills bundled** sẵn sàng dùng: `ips-cmo`, `ho-so-khach-hang-vpc`, `cai-dat-tu-duy`, `tho-ho-xuan-huong`, `text-cat-chunk`, `srt-cat-chunk`, `blog-nau-an` — chi tiết [.claude/skills/](.claude/skills/)
 
 Tổng thời gian học: **15-20 giờ** trải dài 1-2 tuần (không cố ngồi 1 ngày).
 

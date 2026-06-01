@@ -39,4 +39,19 @@ if [ -d "assets" ]; then
   cp -r assets docs/
 fi
 
+echo "→ Copying .claude/skills/ for online preview"
+if [ -d ".claude/skills" ]; then
+  mkdir -p docs/skills
+  # Copy README index
+  cp .claude/skills/README.md docs/skills/index.md
+  # Copy each skill's SKILL.md as docs/skills/<name>.md
+  for skill_dir in .claude/skills/*/; do
+    skill_name=$(basename "$skill_dir")
+    if [ -f "$skill_dir/SKILL.md" ]; then
+      cp "$skill_dir/SKILL.md" "docs/skills/$skill_name.md"
+      echo "  ✓ $skill_name"
+    fi
+  done
+fi
+
 echo "✓ docs/ ready. Run: mkdocs build  or  mkdocs serve"

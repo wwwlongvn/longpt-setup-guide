@@ -132,6 +132,7 @@ extra_css:
 nav:
   - 🏠 Trang chủ: README.md
   - 🚀 Quick Start: QUICK-START.md
+  - 🛠️ Skills (7 bundled): skills/index.md
   - 📖 00. Triết lý:
       - 1. Tại sao AI-first wiki: 00-triet-ly/01-tai-sao-ai-first-wiki.md
       - 2. Tại sao concept-first: 00-triet-ly/02-tai-sao-concept-first.md
